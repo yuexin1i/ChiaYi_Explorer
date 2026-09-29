@@ -39,6 +39,13 @@
   <img src="docs/screenshots/achievements.png" width="30%" alt="成就與探索進度">
 </p>
 
+### AI 旅遊助理與行程管理
+
+<p align="center">
+  <img src="docs/screenshots/ai-assistant.png" width="30%" alt="AI 旅遊助理與行程規劃">
+  <img src="docs/screenshots/itinerary.png" width="30%" alt="個人旅遊行程管理">
+</p>
+
 ## 使用技術
 
 - Flutter / Dart
