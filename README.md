@@ -15,12 +15,20 @@
 
 ## App 畫面
 
-### 首頁與旅遊探索
+### 首頁與雙語介面
 
 <p align="center">
   <img src="docs/screenshots/welcome.png" width="30%" alt="探索諸羅歡迎頁面">
-  <img src="docs/screenshots/home.png" width="30%" alt="探索諸羅首頁">
+  <img src="docs/screenshots/home.png" width="30%" alt="繁體中文首頁">
+  <img src="docs/screenshots/home-en.png" width="30%" alt="英文首頁">
+</p>
+
+### 互動地圖與即時交通
+
+<p align="center">
   <img src="docs/screenshots/map-en.png" width="30%" alt="英文互動探索地圖">
+  <img src="docs/screenshots/youbike.png" width="30%" alt="YouBike 即時站點資訊">
+  <img src="docs/screenshots/traffic-en.png" width="30%" alt="英文公車動態資訊">
 </p>
 
 ### 互動故事與成就
@@ -29,12 +37,6 @@
   <img src="docs/screenshots/story-select.png" width="30%" alt="故事路線選擇">
   <img src="docs/screenshots/story-play.png" width="30%" alt="互動故事遊玩畫面">
   <img src="docs/screenshots/achievements.png" width="30%" alt="成就與探索進度">
-</p>
-
-### 即時交通資訊
-
-<p align="center">
-  <img src="docs/screenshots/transport.png" width="30%" alt="即時交通與 YouBike 資訊">
 </p>
 
 ## 使用技術
